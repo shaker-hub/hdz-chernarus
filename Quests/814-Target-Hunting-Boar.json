@@ -29,7 +29,7 @@
   ],
   "Rewards": [
     {
-      "ClassName": "ExpansionBanknoteHryvnia",
+      "ClassName": "MoneyAUD",
       "Amount": 600,
       "Attachments": [],
       "DamagePercent": 0,
