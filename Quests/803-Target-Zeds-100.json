@@ -20,7 +20,7 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "MoneyAUD",
+      "ClassName": "MoneyAUD20",
       "Amount": 500,
       "Attachments": [],
       "DamagePercent": 0,

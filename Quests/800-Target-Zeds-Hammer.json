@@ -25,7 +25,7 @@
   ],
   "Rewards": [
     {
-      "ClassName": "MoneyAUD",
+      "ClassName": "MoneyAUD20",
       "Amount": 100,
       "Attachments": [],
       "DamagePercent": 0,
